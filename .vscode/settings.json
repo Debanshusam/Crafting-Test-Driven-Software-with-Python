@@ -1,0 +1,11 @@
+{
+    "python.venvPath": "${workspaceFolder}/.venv",
+    "python.venvFolders": [
+      "Envs",
+      ".pyenv",
+      ".virtualenvs",
+      ".venv"
+    ],
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+  }
