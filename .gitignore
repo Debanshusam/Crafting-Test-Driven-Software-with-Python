@@ -16,7 +16,7 @@ dist/
 .settings
 nosetests.xml
 .hypothesis
-.vscode
-venv
+.venv
+.source ~venv
 contacts.json
 todo.data
